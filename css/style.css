@@ -39,5 +39,15 @@ html {
 
 #footer {
 	text-align: center;
-	font-size: 1.25em;
+	font-size: .9em;
+}
+
+#Biography {
+	max-width: 60%;
+	margin: auto;
+	t
+}
+
+h3 {
+	text-align: center;
 }
