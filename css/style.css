@@ -1,0 +1,41 @@
+html {
+	font-family: 'Shippori Antique B1', sans-serif;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+#main {
+	margin: auto;
+	width: 90%;
+	text-align: center;
+	background-color: #F5F5F5;
+	margin-bottom: 3em;
+}
+
+#title {
+	font-size: 3em;
+}
+
+#main p {
+	font-size: 1.5em;
+}
+
+#image {
+	max-width: 70%;
+}
+
+#img-caption {
+	padding: 1em 0em;
+}
+
+#tribute-info {
+	text-align: center;
+	font-size: 2em;
+}
+
+#footer {
+	text-align: center;
+	font-size: 1.25em;
+}
