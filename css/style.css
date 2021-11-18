@@ -24,6 +24,7 @@ html {
 
 #image {
 	max-width: 70%;
+	display: block;
 }
 
 #img-caption {
